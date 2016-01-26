@@ -1,3 +1,23 @@
 h1 {
   font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+.lead {
+  text-align: center;
+  font-size: 30px;
+
+}
+
+
+
+p {
+ font-weight: bold;
+ text-align: center;
+
+}
+
+ol {
+  font-size: 17px
 }
